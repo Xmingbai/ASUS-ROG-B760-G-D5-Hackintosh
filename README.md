@@ -1,6 +1,6 @@
 # ASUS-ROG-B760-G-D5-Hackintosh
 
-# B760-G D5 参考说明指南：https://www.bilibili.com/video/BV18k4y1a7yU/
+# B760-G D5 参考说明指南：https://www.bilibili.com/video/BV18k4y1a7yU/ (白嫖党三连支持一下)
 
 # 硬件配置
 主板：ROG STRIX B760-G GAMING WIFI 小吹雪

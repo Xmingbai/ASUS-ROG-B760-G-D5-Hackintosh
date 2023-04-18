@@ -26,6 +26,7 @@ CPU：i7-13700KF
 
 ☆ 睡眠与唤醒皆正常，支持USB键鼠唤醒
 
+# 相关截图
 ![](https://github.com/Xmingbai/ASUS-ROG-B760-G-D5-Hackintosh/blob/main/1.png)
 ![](https://github.com/Xmingbai/ASUS-ROG-B760-G-D5-Hackintosh/blob/main/2.png)
 ![](https://github.com/Xmingbai/ASUS-ROG-B760-G-D5-Hackintosh/blob/main/3.png)

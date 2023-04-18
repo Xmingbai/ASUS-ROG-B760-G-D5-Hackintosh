@@ -4,10 +4,15 @@
 
 # 硬件配置
 主板：ROG STRIX B760-G GAMING WIFI 小吹雪
+
 CPU：i7-13700KF
+
 显卡: HP RX6600XT 8GB 
+
 内存：选PROXMEM博德斯曼 双叉戟系列DDR5 6800 16G两根
+
 硬盘：三星PM9A1 500G+西数SN770 1T
+
 散热：利民 360水冷
 
 # MacOS完善程度

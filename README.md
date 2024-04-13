@@ -23,7 +23,7 @@ CPU：i7-13700KF/i7-14700KF
 
 ☆ Ver1.1 OC099正式版 支持Catalina 10.15.x、big sur 11.x、Monterey 12.x、Ventura 13.x  Sonoma 14.x下载引导看Releases
 
-☆ CPU R23跑分与Windows下一致
+☆ CPU R23跑分与Windows下基本一致
 
 ☆ 有线网卡正常
 

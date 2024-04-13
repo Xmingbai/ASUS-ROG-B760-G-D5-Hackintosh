@@ -11,13 +11,17 @@ CPU：i7-13700KF/i7-14700KF
 
 内存：选PROXMEM博德斯曼 双叉戟系列DDR5 6800 16G两根
 
-硬盘：三星PM9A1 500G+西数SN770 1T
+硬盘：SN850X 1T
 
-散热：利民 360水冷
+散热：EK240水冷
+
+机箱：SOYI U320白色
+
+
 
 # MacOS完善程度
 
-☆ Ver1.0 OC091正式版 支持Catalina 10.15.x、big sur 11.x、Monterey 12.x、Ventura 13.x 下载引导看Releases
+☆ Ver1.1 OC099正式版 支持Catalina 10.15.x、big sur 11.x、Monterey 12.x、Ventura 13.x  Sonoma 14.x下载引导看Releases
 
 ☆ CPU R23跑分与Windows下一致
 
